@@ -7,4 +7,4 @@ Specification: https://tools.ietf.org/html/rfc6455
 More docs will be placed here...
 
 ## License
-MIT
+This project is licensed under the terms of the MIT license.
